@@ -7,4 +7,5 @@
   - Girilen değer rastgele tutulan değerle eşitse "tebrikler puanınız: "aldığı puan"" yazan bir textview tanımlayınız ve TextInputLayout a sayı girdisi almayı durdurunuz
   - Çıktı aşağıdaki gibi olmalıdır:
   
-  ![1](https://user-images.githubusercontent.com/70329389/112364000-2457cd00-8ce7-11eb-804d-72176b3af54d.png)
+ ![Adsız tasarım](https://user-images.githubusercontent.com/70329389/112364716-dee7cf80-8ce7-11eb-88a1-21fb0cb91f40.png)
+
